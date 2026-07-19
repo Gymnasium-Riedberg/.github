@@ -1,1 +1,1 @@
-# .github
+# Gymnasium Riedberg
